@@ -1,0 +1,4 @@
+database_path=/www/wwwroot/chengqi.site/data/ensembl/ensembl.db
+phylop_path=/www/wwwroot/chengqi.site/data/phylop/phylop/
+bed_path=/www/wwwroot/chengqi.site/data/ens_extern_hg19/ens_extern_hg19.bed
+fasta_path=/www/wwwroot/chengqi.site/data/chrom/chrom

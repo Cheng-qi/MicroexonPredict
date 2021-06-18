@@ -1,0 +1,17 @@
+java.io.IOException: Cannot run program "/usr/bin/samtools": error=2, No such file or directory
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1048)
+	at java.lang.Runtime.exec(Runtime.java:621)
+	at java.lang.Runtime.exec(Runtime.java:451)
+	at java.lang.Runtime.exec(Runtime.java:348)
+	at ccbb.hrbeu.exonimpact.sequencefeaturewrapper.Extractor_sequence.init(Extractor_sequence.java:70)
+	at ccbb.hrbeu.exonimpact.ExonImpact.init(ExonImpact.java:67)
+	at ccbb.hrbeu.exonimpact.ExonImpact.<init>(ExonImpact.java:53)
+	at ccbb.hrbeu.exonimpact.ExonImpact.get_instance(ExonImpact.java:46)
+	at ccbb.hrbeu.exonimpact.test.Test_all_1.test_one(Test_all_1.java:15)
+	at ccbb.hrbeu.exonimpact.test.Test_all_1.main(Test_all_1.java:121)
+Caused by: java.io.IOException: error=2, No such file or directory
+	at java.lang.UNIXProcess.forkAndExec(Native Method)
+	at java.lang.UNIXProcess.<init>(UNIXProcess.java:247)
+	at java.lang.ProcessImpl.start(ProcessImpl.java:134)
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1029)
+	... 9 more

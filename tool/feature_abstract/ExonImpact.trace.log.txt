@@ -1,0 +1,136 @@
+2021-06-16 10:28:35 TRACE Extractor_sequence:45 - fasta_path: /www/wwwroot/chengqi.site/data/chrom/chrom
+2021-06-16 10:28:35 TRACE Extractor_sequence:51 - Number of fasta files: 186
+2021-06-16 10:28:35 TRACE Extractor_sequence:68 - index file : /www/wwwroot/chengqi.site/data/chrom/chromchr19.fa.fai
+2021-06-16 10:28:39 TRACE Extractor_phylop:46 - phylop score file path: /www/wwwroot/chengqi.site/data/phylop/phylop/
+2021-06-16 10:28:39 TRACE Extractor_phylop:52 - phylop files under the directory is:50
+2021-06-16 10:28:39 TRACE Extractor_phylop:57 - chr: chr13 file name: /www/wwwroot/chengqi.site/data/phylop/phylop/chr13.phyloP46way.primate.wigFix.bw
+2021-06-16 10:28:39 TRACE Extractor_phylop:57 - chr: chr6_mcf_hap5 file name: /www/wwwroot/chengqi.site/data/phylop/phylop/chr6_mcf_hap5.phyloP46way.primate.wigFix.bw
+2021-06-16 10:28:39 TRACE Extractor_phylop:57 - chr: chr19_gl000209_random file name: /www/wwwroot/chengqi.site/data/phylop/phylop/chr19_gl000209_random.phyloP46way.primate.wigFix.bw
+2021-06-16 10:28:39 TRACE Extractor_phylop:57 - chr: chr6_apd_hap1 file name: /www/wwwroot/chengqi.site/data/phylop/phylop/chr6_apd_hap1.phyloP46way.primate.wigFix.bw
+2021-06-16 10:28:39 TRACE Extractor_phylop:57 - chr: chr19 file name: /www/wwwroot/chengqi.site/data/phylop/phylop/chr19.phyloP46way.primate.wigFix.bw
+2021-06-16 10:28:39 TRACE Extractor_phylop:57 - chr: chr16 file name: /www/wwwroot/chengqi.site/data/phylop/phylop/chr16.phyloP46way.primate.wigFix.bw
+2021-06-16 10:28:39 TRACE Extractor_phylop:57 - chr: chr6_qbl_hap6 file name: /www/wwwroot/chengqi.site/data/phylop/phylop/chr6_qbl_hap6.phyloP46way.primate.wigFix.bw
+2021-06-16 10:28:39 TRACE Extractor_phylop:57 - chr: chr17_gl000204_random file name: /www/wwwroot/chengqi.site/data/phylop/phylop/chr17_gl000204_random.phyloP46way.primate.wigFix.bw
+2021-06-16 10:28:39 TRACE Extractor_phylop:57 - chr: chr18_gl000207_random file name: /www/wwwroot/chengqi.site/data/phylop/phylop/chr18_gl000207_random.phyloP46way.primate.wigFix.bw
+2021-06-16 10:28:39 TRACE Extractor_phylop:57 - chr: chr6 file name: /www/wwwroot/chengqi.site/data/phylop/phylop/chr6.phyloP46way.primate.wigFix.bw
+2021-06-16 10:28:39 TRACE Extractor_phylop:57 - chr: chr17 file name: /www/wwwroot/chengqi.site/data/phylop/phylop/chr17.phyloP46way.primate.wigFix.bw
+2021-06-16 10:28:40 TRACE Extractor_phylop:57 - chr: chr11 file name: /www/wwwroot/chengqi.site/data/phylop/phylop/chr11.phyloP46way.primate.wigFix.bw
+2021-06-16 10:28:40 TRACE Extractor_phylop:57 - chr: chr8_gl000197_random file name: /www/wwwroot/chengqi.site/data/phylop/phylop/chr8_gl000197_random.phyloP46way.primate.wigFix.bw
+2021-06-16 10:28:40 TRACE Extractor_phylop:57 - chr: chr19_gl000208_random file name: /www/wwwroot/chengqi.site/data/phylop/phylop/chr19_gl000208_random.phyloP46way.primate.wigFix.bw
+2021-06-16 10:28:40 TRACE Extractor_phylop:57 - chr: chr4 file name: /www/wwwroot/chengqi.site/data/phylop/phylop/chr4.phyloP46way.primate.wigFix.bw
+2021-06-16 10:28:40 TRACE Extractor_phylop:57 - chr: chr17_ctg5_hap1 file name: /www/wwwroot/chengqi.site/data/phylop/phylop/chr17_ctg5_hap1.phyloP46way.primate.wigFix.bw
+2021-06-16 10:28:40 TRACE Extractor_phylop:57 - chr: chr22 file name: /www/wwwroot/chengqi.site/data/phylop/phylop/chr22.phyloP46way.primate.wigFix.bw
+2021-06-16 10:28:40 TRACE Extractor_phylop:57 - chr: chr5 file name: /www/wwwroot/chengqi.site/data/phylop/phylop/chr5.phyloP46way.primate.wigFix.bw
+2021-06-16 10:28:40 TRACE Extractor_phylop:57 - chr: chr10 file name: /www/wwwroot/chengqi.site/data/phylop/phylop/chr10.phyloP46way.primate.wigFix.bw
+2021-06-16 10:28:40 TRACE Extractor_phylop:57 - chr: chr3 file name: /www/wwwroot/chengqi.site/data/phylop/phylop/chr3.phyloP46way.primate.wigFix.bw
+2021-06-16 10:28:40 TRACE Extractor_phylop:57 - chr: chr4_gl000194_random file name: /www/wwwroot/chengqi.site/data/phylop/phylop/chr4_gl000194_random.phyloP46way.primate.wigFix.bw
+2021-06-16 10:28:40 TRACE Extractor_phylop:57 - chr: chr8_gl000196_random file name: /www/wwwroot/chengqi.site/data/phylop/phylop/chr8_gl000196_random.phyloP46way.primate.wigFix.bw
+2021-06-16 10:28:40 TRACE Extractor_phylop:57 - chr: chr1_gl000191_random file name: /www/wwwroot/chengqi.site/data/phylop/phylop/chr1_gl000191_random.phyloP46way.primate.wigFix.bw
+2021-06-16 10:28:40 TRACE Extractor_phylop:57 - chr: chr21 file name: /www/wwwroot/chengqi.site/data/phylop/phylop/chr21.phyloP46way.primate.wigFix.bw
+2021-06-16 10:28:40 TRACE Extractor_phylop:57 - chr: chr2 file name: /www/wwwroot/chengqi.site/data/phylop/phylop/chr2.phyloP46way.primate.wigFix.bw
+2021-06-16 10:28:40 TRACE Extractor_phylop:57 - chr: chr9 file name: /www/wwwroot/chengqi.site/data/phylop/phylop/chr9.phyloP46way.primate.wigFix.bw
+2021-06-16 10:28:40 TRACE Extractor_phylop:57 - chr: chrX file name: /www/wwwroot/chengqi.site/data/phylop/phylop/chrX.phyloP46way.primate.wigFix.bw
+2021-06-16 10:28:40 TRACE Extractor_phylop:57 - chr: chr17_gl000206_random file name: /www/wwwroot/chengqi.site/data/phylop/phylop/chr17_gl000206_random.phyloP46way.primate.wigFix.bw
+2021-06-16 10:28:40 TRACE Extractor_phylop:57 - chr: chr15 file name: /www/wwwroot/chengqi.site/data/phylop/phylop/chr15.phyloP46way.primate.wigFix.bw
+2021-06-16 10:28:40 TRACE Extractor_phylop:57 - chr: chr6_ssto_hap7 file name: /www/wwwroot/chengqi.site/data/phylop/phylop/chr6_ssto_hap7.phyloP46way.primate.wigFix.bw
+2021-06-16 10:28:40 TRACE Extractor_phylop:57 - chr: chr6_cox_hap2 file name: /www/wwwroot/chengqi.site/data/phylop/phylop/chr6_cox_hap2.phyloP46way.primate.wigFix.bw
+2021-06-16 10:28:40 TRACE Extractor_phylop:57 - chr: chr17_gl000205_random file name: /www/wwwroot/chengqi.site/data/phylop/phylop/chr17_gl000205_random.phyloP46way.primate.wigFix.bw
+2021-06-16 10:28:40 TRACE Extractor_phylop:57 - chr: chr20 file name: /www/wwwroot/chengqi.site/data/phylop/phylop/chr20.phyloP46way.primate.wigFix.bw
+2021-06-16 10:28:40 TRACE Extractor_phylop:57 - chr: chr7_gl000195_random file name: /www/wwwroot/chengqi.site/data/phylop/phylop/chr7_gl000195_random.phyloP46way.primate.wigFix.bw
+2021-06-16 10:28:40 TRACE Extractor_phylop:57 - chr: chr6_dbb_hap3 file name: /www/wwwroot/chengqi.site/data/phylop/phylop/chr6_dbb_hap3.phyloP46way.primate.wigFix.bw
+2021-06-16 10:28:40 TRACE Extractor_phylop:57 - chr: chr11_gl000202_random file name: /www/wwwroot/chengqi.site/data/phylop/phylop/chr11_gl000202_random.phyloP46way.primate.wigFix.bw
+2021-06-16 10:28:40 TRACE Extractor_phylop:57 - chr: chrM file name: /www/wwwroot/chengqi.site/data/phylop/phylop/chrM.phyloP46way.primate.wigFix.bw
+2021-06-16 10:28:40 TRACE Extractor_phylop:57 - chr: chr4_gl000193_random file name: /www/wwwroot/chengqi.site/data/phylop/phylop/chr4_gl000193_random.phyloP46way.primate.wigFix.bw
+2021-06-16 10:28:40 TRACE Extractor_phylop:57 - chr: chr7 file name: /www/wwwroot/chengqi.site/data/phylop/phylop/chr7.phyloP46way.primate.wigFix.bw
+2021-06-16 10:28:40 TRACE Extractor_phylop:57 - chr: chr1_gl000192_random file name: /www/wwwroot/chengqi.site/data/phylop/phylop/chr1_gl000192_random.phyloP46way.primate.wigFix.bw
+2021-06-16 10:28:40 TRACE Extractor_phylop:57 - chr: chr4_ctg9_hap1 file name: /www/wwwroot/chengqi.site/data/phylop/phylop/chr4_ctg9_hap1.phyloP46way.primate.wigFix.bw
+2021-06-16 10:28:40 TRACE Extractor_phylop:57 - chr: chr12 file name: /www/wwwroot/chengqi.site/data/phylop/phylop/chr12.phyloP46way.primate.wigFix.bw
+2021-06-16 10:28:40 TRACE Extractor_phylop:57 - chr: chr14 file name: /www/wwwroot/chengqi.site/data/phylop/phylop/chr14.phyloP46way.primate.wigFix.bw
+2021-06-16 10:28:40 TRACE Extractor_phylop:57 - chr: chr8 file name: /www/wwwroot/chengqi.site/data/phylop/phylop/chr8.phyloP46way.primate.wigFix.bw
+2021-06-16 10:28:40 TRACE Extractor_phylop:57 - chr: chr1 file name: /www/wwwroot/chengqi.site/data/phylop/phylop/chr1.phyloP46way.primate.wigFix.bw
+2021-06-16 10:28:40 TRACE Extractor_phylop:57 - chr: chr17_gl000203_random file name: /www/wwwroot/chengqi.site/data/phylop/phylop/chr17_gl000203_random.phyloP46way.primate.wigFix.bw
+2021-06-16 10:28:40 TRACE Extractor_phylop:57 - chr: chr21_gl000210_random file name: /www/wwwroot/chengqi.site/data/phylop/phylop/chr21_gl000210_random.phyloP46way.primate.wigFix.bw
+2021-06-16 10:28:40 TRACE Extractor_phylop:57 - chr: chrY file name: /www/wwwroot/chengqi.site/data/phylop/phylop/chrY.phyloP46way.primate.wigFix.bw
+2021-06-16 10:28:40 TRACE Extractor_phylop:57 - chr: chr18 file name: /www/wwwroot/chengqi.site/data/phylop/phylop/chr18.phyloP46way.primate.wigFix.bw
+2021-06-16 10:28:40 TRACE Extractor_phylop:57 - chr: chr6_mann_hap4 file name: /www/wwwroot/chengqi.site/data/phylop/phylop/chr6_mann_hap4.phyloP46way.primate.wigFix.bw
+2021-06-16 10:28:41 INFO  ExonImpact:82 - the SQL statement is: restore from '/www/wwwroot/chengqi.site/data/ensembl/ensembl.db'
+2021-06-16 10:28:41 TRACE ExonImpact:90 - init database!
+2021-06-16 10:28:41 INFO  ExonImpact:193 - the input file path is: ./usr_input/case.txt
+2021-06-16 10:28:41 TRACE ExonImpact:131 - process input: chr3	78696778	78696805 number_index is: 0
+2021-06-16 10:28:41 TRACE Exon_feature:105 - number of transcripts mapped for the input is: 5 
+2021-06-16 10:28:41 TRACE Exon_feature:115 - The mapped transcript is: ENST00000436010
+2021-06-16 10:28:41 TRACE Exon_feature:124 - The input is: chr3	78696778	78696805 and is match
+2021-06-16 10:28:41 TRACE Exon_transcript_feature:131 - build feature
+2021-06-16 10:28:41 TRACE Exon_transcript_feature:177 - Get raw features from database.
+2021-06-16 10:28:41 TRACE Exon_transcript_feature:191 - get phylop for the whole fragment!
+2021-06-16 10:28:41 TRACE Extractor_phylop:80 - get phylp score from: chr3 start: 78696777 end:78696807
+2021-06-16 10:28:41 TRACE Exon_transcript_feature:205 - got phylop for the target region!
+2021-06-16 10:28:41 TRACE Extractor_structure_feature:42 - current search transcript is: ENST00000436010
+2021-06-16 10:28:41 TRACE Exon_transcript_feature:184 - Calculate features using database.
+2021-06-16 10:28:41 TRACE Exon_feature:115 - The mapped transcript is: ENST00000464233
+2021-06-16 10:28:41 TRACE Exon_feature:124 - The input is: chr3	78696778	78696805 and is match
+2021-06-16 10:28:41 TRACE Exon_transcript_feature:131 - build feature
+2021-06-16 10:28:41 TRACE Exon_transcript_feature:177 - Get raw features from database.
+2021-06-16 10:28:41 TRACE Exon_transcript_feature:191 - get phylop for the whole fragment!
+2021-06-16 10:28:41 TRACE Extractor_phylop:80 - get phylp score from: chr3 start: 78696777 end:78696807
+2021-06-16 10:28:41 TRACE Exon_transcript_feature:205 - got phylop for the target region!
+2021-06-16 10:28:41 TRACE Extractor_structure_feature:42 - current search transcript is: ENST00000464233
+2021-06-16 10:28:41 TRACE Exon_transcript_feature:184 - Calculate features using database.
+2021-06-16 10:28:41 TRACE Exon_feature:115 - The mapped transcript is: ENST00000495273
+2021-06-16 10:28:41 TRACE Exon_feature:128 - The input is: chr3	78696778	78696805 and not match
+2021-06-16 10:28:41 TRACE Exon_feature:115 - The mapped transcript is: ENST00000467549
+2021-06-16 10:28:41 TRACE Exon_feature:128 - The input is: chr3	78696778	78696805 and not match
+2021-06-16 10:28:41 TRACE Exon_feature:115 - The mapped transcript is: ENST00000498428
+2021-06-16 10:28:41 TRACE Exon_feature:124 - The input is: chr3	78696778	78696805 and is match
+2021-06-16 10:28:41 TRACE Exon_transcript_feature:131 - build feature
+2021-06-16 10:28:41 TRACE Exon_transcript_feature:177 - Get raw features from database.
+2021-06-16 10:28:41 TRACE Exon_transcript_feature:191 - get phylop for the whole fragment!
+2021-06-16 10:28:41 TRACE Extractor_phylop:80 - get phylp score from: chr3 start: 78696777 end:78696807
+2021-06-16 10:28:41 TRACE Exon_transcript_feature:205 - got phylop for the target region!
+2021-06-16 10:28:41 TRACE Extractor_structure_feature:42 - current search transcript is: ENST00000498428
+2021-06-16 10:28:41 TRACE Extractor_structure_feature:63 - The transcript id don't have have record for protein structure. : ENST00000498428
+2021-06-16 10:28:41 ERROR Exon_transcript_feature:181 - The transcrpt's protein sturctures is zero or target protein region is 0: ENST00000498428
+2021-06-16 10:28:41 TRACE ExonImpact:131 - process input: chr3	78742497	78742506 number_index is: 1
+2021-06-16 10:28:41 TRACE Exon_feature:105 - number of transcripts mapped for the input is: 6 
+2021-06-16 10:28:41 TRACE Exon_feature:115 - The mapped transcript is: ENST00000436010
+2021-06-16 10:28:41 TRACE Exon_feature:128 - The input is: chr3	78742497	78742506 and not match
+2021-06-16 10:28:41 TRACE Exon_feature:115 - The mapped transcript is: ENST00000464233
+2021-06-16 10:28:41 TRACE Exon_feature:128 - The input is: chr3	78742497	78742506 and not match
+2021-06-16 10:28:41 TRACE Exon_feature:115 - The mapped transcript is: ENST00000495273
+2021-06-16 10:28:41 TRACE Exon_feature:124 - The input is: chr3	78742497	78742506 and is match
+2021-06-16 10:28:41 TRACE Exon_transcript_feature:131 - build feature
+2021-06-16 10:28:41 TRACE Exon_transcript_feature:177 - Get raw features from database.
+2021-06-16 10:28:41 TRACE Exon_transcript_feature:191 - get phylop for the whole fragment!
+2021-06-16 10:28:41 TRACE Extractor_phylop:80 - get phylp score from: chr3 start: 78742496 end:78742508
+2021-06-16 10:28:41 TRACE Exon_transcript_feature:205 - got phylop for the target region!
+2021-06-16 10:28:41 TRACE Extractor_structure_feature:42 - current search transcript is: ENST00000495273
+2021-06-16 10:28:41 TRACE Exon_transcript_feature:184 - Calculate features using database.
+2021-06-16 10:28:41 TRACE Exon_feature:115 - The mapped transcript is: ENST00000467549
+2021-06-16 10:28:41 TRACE Exon_feature:124 - The input is: chr3	78742497	78742506 and is match
+2021-06-16 10:28:41 TRACE Exon_transcript_feature:131 - build feature
+2021-06-16 10:28:41 TRACE Exon_transcript_feature:177 - Get raw features from database.
+2021-06-16 10:28:41 TRACE Exon_transcript_feature:191 - get phylop for the whole fragment!
+2021-06-16 10:28:41 TRACE Extractor_phylop:80 - get phylp score from: chr3 start: 78742496 end:78742508
+2021-06-16 10:28:41 TRACE Exon_transcript_feature:205 - got phylop for the target region!
+2021-06-16 10:28:41 TRACE Extractor_structure_feature:42 - current search transcript is: ENST00000467549
+2021-06-16 10:28:41 TRACE Exon_transcript_feature:184 - Calculate features using database.
+2021-06-16 10:28:41 TRACE Exon_feature:115 - The mapped transcript is: ENST00000484514
+2021-06-16 10:28:41 TRACE Exon_feature:124 - The input is: chr3	78742497	78742506 and is match
+2021-06-16 10:28:41 TRACE Exon_transcript_feature:131 - build feature
+2021-06-16 10:28:41 TRACE Exon_transcript_feature:177 - Get raw features from database.
+2021-06-16 10:28:41 TRACE Exon_transcript_feature:191 - get phylop for the whole fragment!
+2021-06-16 10:28:41 TRACE Extractor_phylop:80 - get phylp score from: chr3 start: 78742496 end:78742508
+2021-06-16 10:28:41 TRACE Exon_transcript_feature:205 - got phylop for the target region!
+2021-06-16 10:28:41 TRACE Extractor_structure_feature:42 - current search transcript is: ENST00000484514
+2021-06-16 10:28:41 TRACE Extractor_structure_feature:63 - The transcript id don't have have record for protein structure. : ENST00000484514
+2021-06-16 10:28:41 ERROR Exon_transcript_feature:181 - The transcrpt's protein sturctures is zero or target protein region is 0: ENST00000484514
+2021-06-16 10:28:41 TRACE Exon_feature:115 - The mapped transcript is: ENST00000488735
+2021-06-16 10:28:41 TRACE Exon_feature:124 - The input is: chr3	78742497	78742506 and is match
+2021-06-16 10:28:41 TRACE Exon_transcript_feature:131 - build feature
+2021-06-16 10:28:41 TRACE Exon_transcript_feature:177 - Get raw features from database.
+2021-06-16 10:28:41 TRACE Exon_transcript_feature:191 - get phylop for the whole fragment!
+2021-06-16 10:28:41 TRACE Extractor_phylop:80 - get phylp score from: chr3 start: 78742496 end:78742508
+2021-06-16 10:28:41 TRACE Exon_transcript_feature:205 - got phylop for the target region!
+2021-06-16 10:28:41 TRACE Extractor_structure_feature:42 - current search transcript is: ENST00000488735
+2021-06-16 10:28:41 TRACE Extractor_structure_feature:63 - The transcript id don't have have record for protein structure. : ENST00000488735
+2021-06-16 10:28:41 ERROR Exon_transcript_feature:181 - The transcrpt's protein sturctures is zero or target protein region is 0: ENST00000488735
