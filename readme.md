@@ -7,10 +7,10 @@
 
 
 ## Requirement:
-1.python 3.7.1
-2.java 14.0
-3.numpy 1.16.0
-4.pandas 0.23.4
+1. python 3.7.1
+2. java 14.0
+3. numpy 1.16.0
+4. pandas 0.23.4
 
 
 ## Steps of operation:
