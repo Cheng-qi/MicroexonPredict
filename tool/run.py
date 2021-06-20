@@ -21,7 +21,7 @@ import abstractindelfeature
 import numpy as np
 
 def Recognition(cases):
-    csv_data = np.loadtxt("./db/templates", dtype = np.str, delimiter = ",")
+    csv_data = np.loadtxt("./templates", dtype = np.str, delimiter = ",")
     templates_index = csv_data.astype(np.double)
     templates = templates_index[:,:-1]
     indexs = templates_index[:,-1]
