@@ -1,9 +1,10 @@
 # Prediction of Functional Microexons with Transferring Learning
 
 ## Introduce
+该工具使用迁移学习作为
 
 ## Online service
-If you only use this tool to predict Functional microexon, we also provided a long-term online service platform at http://chengqi.site/MicroExonsPredict/sevice
+If you only use this tool to predict Functional Microexons, we also provided a long-term online service at http://chengqi.site/MicroExonsPredict/onlineSevice
 
 ## Requirement:
 1. python 3.7.1
@@ -12,12 +13,12 @@ If you only use this tool to predict Functional microexon, we also provided a lo
 4. pandas 0.23.4
 
 ## Steps of Usage:
-1. Download databases from http:chengqi.site/MicroexonPredict/databases.zip;
+1. Download databases from http://chengqi.site/MicroexonPredict/databases.zip;
 2. Assign correct databases path in ./configuration.txt;
 3. Input your variants (one position based on 0 of microexon per row, example: chr11:233910:233928 that is a microexon with 18bps) in ./input.txt.
 4. You can get prediction results in ./results.txt using following command
  ```bash
-python predict.py
+python Predict.py
 ``` 
 
 ## Note That:
