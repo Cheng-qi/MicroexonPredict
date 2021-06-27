@@ -1,7 +1,7 @@
 # Prediction of Functional Microexons with Transferring Learning
 
-## Introduce
-该工具的目的是进行小外显子的功能性预测，该生成的3941个小外显子模板作为基准，使用*k*=5的KNN
+## Introduction
+该工具的目的是进行小外显子的功能性预测，该生成的3941个小外显子模板作为基准，使用*k*=5的KNN(K-Nearest Neighbor)算法进行预测。
 
 ## Online service
 If you only use this tool to predict Functional Microexons, we also provided a long-term online service at http://MicroExonsPredict.chengqi.site//onlineSevicegit 
