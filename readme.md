@@ -1,10 +1,10 @@
 # Prediction of Functional Microexons with Transferring Learning
 
 ## Introduction
-该工具的目的是进行小外显子的功能性预测，该生成的3941个小外显子模板作为基准，使用*k*=5的KNN(K-Nearest Neighbor)算法进行预测。
+Microexons are a particular kind of exons with length of less than 30 nucleotides. More than 60% of annotated human microexons were found to have high levels of sequence conservation, indicating of potential functions. The tool was developed to predict functional microexons using TCA(transfer component analysis) and  KNN(K-Nearest Neighbor) with *k*=5. Please refer to our paper *Prediction of Functional Microexons with Transferring Learning* for more details.
 
 ## Online service
-If you only use this tool to predict Functional Microexons, we also provided a long-term online service at http://MicroExonsPredict.chengqi.site//onlineSevicegit 
+If you only use this tool to predict Functional Microexons, we also provided a long-term [online service](http://MicroExonsPredict.chengqi.site//onlineSevice). 
 
 ## Requirement
 1. python 3.7.1
