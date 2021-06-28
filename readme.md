@@ -3,6 +3,11 @@
 ## Introduction
 Microexons are a particular kind of exons with length of less than 30 nucleotides. More than 60% of annotated human microexons were found to have high levels of sequence conservation, indicating of potential functions. The tool was developed to predict functional microexons using TCA(transfer component analysis) and  KNN(K-Nearest Neighbor) with *k*=5. Please refer to our paper *Prediction of Functional Microexons with Transferring Learning* for more details.
 
+- ExtractedFeatures: Feature extraction source codes, we had packaged these programs as a *jar* in tool/feature_abstract/ExtractedFeature.jar;
+- ModelingAndEvaluating: Including all experimental data, modeling and evaluating codes;
+- Tool: Available complete tool.
+
+
 ## Online service
 If you only use this tool to predict Functional Microexons, we also provided a long-term [online service](http://MicroExonsPredict.chengqi.site//onlineSevice). 
 
@@ -13,10 +18,11 @@ If you only use this tool to predict Functional Microexons, we also provided a l
 4. pandas 0.23.4
 
 ## Steps of Usage
+tool文件夹已经包括了预测功能性小外显子的所有的
 1. Download databases from http://MicroexonsPredict.chengqi.site/databases.zip;
-2. Assign correct databases path in ./configuration.txt;
-3. Input your variants (one position based on 0 of microexon per row, example: chr11:233910:233928 that is a microexon with 18bps) in ./input.txt.
-4. You can get prediction results in ./results.txt using following command
+2. Assign correct databases path in tool/configuration.txt;
+3. Input your variants (one position based on 0 of microexon per row, example: chr11:233910:233928 that is a microexon with 18bps) in tool/input.txt.
+4. You can get prediction results in tool/results.txt using following command
  ```bash
 python Predict.py
 ``` 

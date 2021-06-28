@@ -7,7 +7,7 @@
 @contact: chengqi@hrbeu.edu.cn
 @site: https://github.com/Cheng-qi
 @software: PyCharm
-@file: run.py
+@file: Predict.py
 @time: 2021/4/30 15:15
 """
 
@@ -21,7 +21,8 @@ import abstractindelfeature
 import numpy as np
 
 def Recognition(cases):
-    csv_data = np.loadtxt("./templates", dtype = np.str, delimiter = ",")
+    ## KNN
+    csv_data = np.loadtxt("./template/templates", dtype = np.str, delimiter = ",")
     templates_index = csv_data.astype(np.double)
     templates = templates_index[:,:-1]
     indexs = templates_index[:,-1]
@@ -41,7 +42,7 @@ def Recognition(cases):
         result = sum(indexs[sort_np[:k]])/k
     return result
 
-#归一化
+#normalization
 def Standardize(feature):
     feature_std = feature[:]
     feature_std[0] = (feature_std[0]+1.2185)/1.8685
@@ -81,22 +82,10 @@ def Standardize(feature):
 if __name__=="__main__":
 
     basedir = os.path.abspath(os.path.dirname(__file__))
-    # print(basedir)
     os.chdir(basedir)
-    os.putenv('CLASSPATH', '.;' +
-              basedir + '/feature_abstract/jar/commons-beanutils-1.9.3.jar;' +
-              basedir + '/feature_abstract/jar/commons-configuration2-2.1.jar;' +
-              basedir + '/feature_abstract/jar/commons-io-2.5.jar;' +
-              basedir + '/feature_abstract/jar/commons-lang3-3.4.jar;' +
-              basedir + '/feature_abstract/jar/igv.jar;' +
-              basedir + '/feature_abstract/jar/log4j-1.2.17.jar;' +
-              basedir + '/feature_abstract/jar/picard-1.119.jar;' +
-              basedir + '/feature_abstract/jar/sqlite-jdbc-3.8.11.2.jar;')
-
     if len(sys.argv)==3:
         microexons_str = sys.argv[2]
     else:
-        # print(os.environ['CLASSPATH'])
         input_file_name = "input.txt"
         # 1.read input
         with open(input_file_name, "r") as in_file:
@@ -127,7 +116,6 @@ if __name__=="__main__":
         sys.exit(-1)
     os.chdir(basedir)
 
-
     # 3. predict
     predict_result = "position\tfunctional_probability\n"
     predict_result_dict = {}
@@ -151,10 +139,4 @@ if __name__=="__main__":
 
     with open("result.txt", "w") as f:
         f.write(predict_result)
-
-    # print("Predict finished. Please check \"result.txt\"")
     print("FINISHED")
-
-
-    # os.chdir(basedir)
-    # print(os.getenv("CLASSPATH"))
