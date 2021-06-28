@@ -18,11 +18,12 @@ If you only use this tool to predict Functional Microexons, we also provided a l
 4. pandas 0.23.4
 
 ## Steps of Usage
-tool文件夹已经包括了预测功能性小外显子的所有的
+The folder *“Tool”* already contains all the source code for predicting functional microexons. 
+
 1. Download databases from http://MicroexonsPredict.chengqi.site/databases.zip;
-2. Assign correct databases path in tool/configuration.txt;
-3. Input your variants (one position based on 0 of microexon per row, example: chr11:233910:233928 that is a microexon with 18bps) in tool/input.txt.
-4. You can get prediction results in tool/results.txt using following command
+2. Assign correct databases path in Tool/configuration.txt;
+3. Input your variants (one position based on 0 of microexon per row, example: chr11:233910:233928 that is a microexon with 18bps) in Tool/input.txt.
+4. You can get prediction results in Tool/results.txt using following command
  ```bash
 python Predict.py
 ``` 
