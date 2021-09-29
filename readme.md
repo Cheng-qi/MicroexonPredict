@@ -20,7 +20,7 @@ If you only use this tool to predict Functional Microexons, we also provided a l
 ## Steps of Usage
 The folder *“Tool”* already contains all the source code for predicting functional microexons. 
 
-1. Download databases from http://MicroexonsPredict.chengqi.site/databases.zip;
+1. Download databases from https://drive.google.com/file/d/1VOBYv1MO4XUvxy7xg32phKOO6KgjFQs0/view?usp=sharing;
 2. Assign correct databases path in Tool/configuration.txt;
 3. Input your variants (one position based on 0 of microexon per row, example: chr11:233910:233928 that is a microexon with 18bps) in Tool/input.txt.
 4. You can get prediction results in Tool/results.txt using following command
