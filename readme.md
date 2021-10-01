@@ -1,4 +1,4 @@
-# Prediction of Functional Microexons with Transferring Learning
+# Prediction of Functional Microexons with Transfer Learning
 
 ## Introduction
 Microexons are a particular kind of exons with length of less than 30 nucleotides. More than 60% of annotated human microexons were found to have high levels of sequence conservation, indicating of potential functions. The tool was developed to predict functional microexons using TCA(transfer component analysis) and  KNN(K-Nearest Neighbor) with *k*=5. Please refer to our paper *Prediction of Functional Microexons with Transferring Learning* for more details.
